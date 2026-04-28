@@ -13,3 +13,8 @@
 - polished html and css
 - added animations
 - added details
+
+3 hr 22 mins - 4 hr 9mins:
+- polished the css and html
+- fixed bugs
+- experimented colours, especially the title 
