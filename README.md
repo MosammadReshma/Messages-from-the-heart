@@ -1,3 +1,8 @@
+ABOUT:
+This project was created to appreciate all the frontline workers of UAE for their hardwork. I've collected some comments and thought of kids in my school to show how we all are grateful for their serveice.
+
+you can scroll down and hover over each card to see the polished animations, or use the button named "explore student messages" to view the messages
+
 1 hr 30 mins:
 - did the html
 - did basic css
